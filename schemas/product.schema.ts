@@ -1,4 +1,4 @@
-import { z } from "zod";
+import { z } from "zod"; // veri şeması ile ilgli api dan gelen veriyi doğrulamak ve tip güvenliği sağlamak için kullanılır
 
 // --- Relational field helper ---
 // Directus ilişkisel alanları sorguya göre farklı şekillerde döner:
