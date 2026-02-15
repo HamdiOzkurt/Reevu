@@ -1,10 +1,10 @@
 import {
-    ProductSchema,
-    ReviewSchema,
-    StoreSchema,
-    type Product,
-    type Review,
-    type Store,
+  ProductSchema,
+  ReviewSchema,
+  StoreSchema,
+  type Product,
+  type Review,
+  type Store,
 } from "@/schemas/product.schema";
 import { z } from "zod";
 import { apiClient } from "./apiClient";
@@ -24,6 +24,7 @@ export async function fetchProducts(): Promise<Product[]> {
 }
 
 export async function fetchProduct(id: number): Promise<Product> {
+  //Geriye ürün dizisi sözü Promise<Product ile bu kodun amacı bu.
   // Detay görünümü: tüm alanları genişlet
   const { data } = await apiClient.get(
     `/items/reevu_products/${id}?fields=*,reviews.*,stores.*`,
