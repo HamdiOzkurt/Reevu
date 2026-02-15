@@ -1,4 +1,5 @@
 # Welcome to your Expo app
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/d95f960a-0b21-4af3-aa7a-af8282ee3236" />
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -26,6 +27,7 @@ In the output, you'll find options to open the app in a
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 ## Get a fresh project
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/f11ce5bc-93ea-416f-adb6-5d8713c475be" />
 
 When you're ready, run:
 
@@ -34,6 +36,8 @@ npm run reset-project
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/d743fb36-8370-4c07-af2b-f56fe9c6a4a9" />
+
 
 ## Learn more
 
@@ -42,7 +46,9 @@ To learn more about developing your project with Expo, look at the following res
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
+
 ## Join the community
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/dad469a6-6106-4db7-8a61-0822ea2b2e07" />
 
 Join our community of developers creating universal apps.
 
